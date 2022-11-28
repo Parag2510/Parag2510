@@ -1,3 +1,4 @@
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTvZQ6bXZ2mLGO4UWpSoyPs-2iByqsNGnvj6g&usqp=CAU"/>
 <h1 align="center">Hi 👋, I'm Parag Sonje</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=parag2510&label=Profile%20views&color=0e75b6&style=flat" alt="parag2510" /> </p>
 
