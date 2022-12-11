@@ -1,8 +1,8 @@
 <img style="width:100%" src="https://www.wingstechsolutions.com/wp-content/uploads/2022/03/full-stack-development.gif" alt="img gif" />
 <h1 align="center">Hi 👋, I'm Parag Sonje</h1>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=parag2510&label=Profile%20views&color=0e75b6&style=flat" alt="parag2510" /> </p>
+<p  align="left"> <img src="https://komarev.com/ghpvc/?username=parag2510&label=Profile%20views&color=0e75b6&style=flat" alt="parag2510" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=parag2510" alt="parag2510" /></a> </p>
+<p style="marginright:50px" align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=parag2510" alt="parag2510" /></a> </p>
 
 - 🔭 I’m currently working on **Job as Mern Stack Developer**
 
