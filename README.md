@@ -1,31 +1,30 @@
-<h1 align="center">Hi 👋, I'm Parag Sonje</h1>
+  <h1 align="center">Hi 👋, I'm Parag Sonje</h1>
     <p align="center">I am a passionate aspiring Full Stack Web Developer. My passion for technology has brought me to learn HTML, CSS, JavaScript, React.js, Redus.js, TypeScript and many other tach stacks. Other than technology I love cricket and listening to music..</p>
     <img style="width:100%" src="https://www.wingstechsolutions.com/wp-content/uploads/2022/03/full-stack-development.gif" alt="img gif" />
     <p  align="left"> <img src="https://komarev.com/ghpvc/?username=parag2510&label=Profile%20views&color=0e75b6&style=flat" alt="parag2510" /> </p>
     
-    <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img  style="margin-left:25%" src="https://github-profile-trophy.vercel.app/?username=parag2510" alt="parag2510" /></a> </p>
+   <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img  style="margin-left:25%" src="https://github-profile-trophy.vercel.app/?username=parag2510" alt="parag2510" /></a> </p>
     
-    - 🔭 I’m currently working on **Job as Mern Stack Developer**
+   - 🔭 I’m currently working on **Job as Mern Stack Developer**
     
-    - 🌱 I’m currently learning **New Technologies**
+   - 🌱 I’m currently learning **New Technologies**
     
-    - 👨‍💻 All of my projects are available at [https://github.com/Parag2510](https://github.com/Parag2510)
+   - 👨‍💻 All of my projects are available at [https://github.com/Parag2510](https://github.com/Parag2510)
     
-    - 💬 Ask me about **HTML , CSS , JavaScript , React , TypeScript , Redux**
+   - 💬 Ask me about **HTML , CSS , JavaScript , React , TypeScript , Redux**
     
-    - 📫 How to reach me **sonjeparag75@gmail.com**
+   - 📫 How to reach me **sonjeparag75@gmail.com**
     
-    <h3 align="left">Connect with me:</h3>
+   <h3 align="left">Connect with me:</h3>
     <p align="left">
     <a href="https://linkedin.com/in/https://www.linkedin.com/in/parag-sonje-b648bb236/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/parag-sonje-b648bb236/" height="30" width="40" /></a>
     </p>
     
-    <h3 align="left"  style="margin-left:38%">Languages and Tools:</h3>
+   <h3 align="left"  style="margin-left:38%">Languages and Tools:</h3>
     <p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img style="margin-left:35%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
     
-    <p><img align="left"  style="margin-left:15%"src="https://github-readme-stats.vercel.app/api/top-langs?username=parag2510&show_icons=true&locale=en&layout=compact" alt="parag2510" /></p>
+   <p><img align="left"  style="margin-left:15%"src="https://github-readme-stats.vercel.app/api/top-langs?username=parag2510&show_icons=true&locale=en&layout=compact" alt="parag2510" /></p>
     
-    <p>&nbsp;<img align="center"   src="https://github-readme-stats.vercel.app/api?username=parag2510&show_icons=true&locale=en" alt="parag2510" /></p>
+   <p>&nbsp;<img align="center"   src="https://github-readme-stats.vercel.app/api?username=parag2510&show_icons=true&locale=en" alt="parag2510" /></p>
     
-    <p><img align="center" style="margin-left:25%" src="https://github-readme-streak-stats.herokuapp.com/?user=parag2510&" alt="parag2510" /></p>
-    
+   <p><img align="center" style="margin-left:25%" src="https://github-readme-streak-stats.herokuapp.com/?user=parag2510&" alt="parag2510" /></p>
