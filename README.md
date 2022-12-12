@@ -50,9 +50,17 @@
       <img src = "https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white" align="center" alt="npm">
    </div>  
    
+  </div>
+   <br/>
+   
+   
+<h2><i>My GitHub Stats</i></h2>
+   
     
-   <p><img align="left"  style="margin-left:15%"src="https://github-readme-stats.vercel.app/api/top-langs?username=parag2510&show_icons=true&locale=en&layout=compact" alt="parag2510" /></p>
+   <p><img align="left"  style="margin-left:15%"src="https://github-readme-stats.vercel.app/api/top-langs?username=parag2510&show_icons=true&locale=en&layout=compact"    alt="parag2510" /></p>
     
-   <p>&nbsp;<img align="center"   src="https://github-readme-stats.vercel.app/api?username=parag2510&show_icons=true&locale=en" alt="parag2510" /></p>
+  <p>&nbsp;
+  <img align="right"   src="https://github-readme-stats.vercel.app/api?username=parag2510&show_icons=true&locale=en" alt="parag2510" />
+  </p>
     
-   <p><img align="center" style="margin-left:25%" src="https://github-readme-streak-stats.herokuapp.com/?user=parag2510&" alt="parag2510" /></p>
+   <p>&nbsp;<img align="center" style="margin-left:25%" src="https://github-readme-streak-stats.herokuapp.com/?user=parag2510&" alt="parag2510" /></p>
