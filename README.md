@@ -4,6 +4,9 @@
     <p  align="left"> <img src="https://komarev.com/ghpvc/?username=parag2510&label=Profile%20views&color=0e75b6&style=flat" alt="parag2510" /> </p>
     
    <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img  style="margin-left:25%" src="https://github-profile-trophy.vercel.app/?username=parag2510" alt="parag2510" /></a> </p>
+   
+   <h1> ## 🙋‍♂️ About Me </h1>
+        <img align="right" alt="Coding" width="400"   src="https://media0.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif?cid=ecf05e47k6kikx655y5zhpu3amg8fwu6zv2dwwpvz2eydv9t&rid=giphy.gif&ct=g"/> 
     
    - 🔭 I’m currently working on **Job as Mern Stack Developer**
     
