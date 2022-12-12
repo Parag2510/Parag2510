@@ -54,7 +54,7 @@
    
    
    
-   <h2><i>My GitHub Stats</i></h2>
+   <h2 align="center"><i>My GitHub Stats</i></h2>
    
     
  <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=parag2510&show_icons=true&locale=en&layout=compact" alt="parag2510" /></p>
