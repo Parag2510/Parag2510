@@ -42,6 +42,8 @@
       <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" align="center" alt="mongodb"/>
       <img src="https://img.shields.io/badge/mongoose-%2300f.svg?style=for-the-badge&logo=fastify&logoColor=white" align="center" alt="mongoose"/>
        </div>
+       
+   
     
    <p><img align="left"  style="margin-left:15%"src="https://github-readme-stats.vercel.app/api/top-langs?username=parag2510&show_icons=true&locale=en&layout=compact" alt="parag2510" /></p>
     
