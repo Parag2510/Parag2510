@@ -56,8 +56,8 @@
    
    <h2 align="center"><i>My GitHub Stats</i></h2>
    
- <p display="flex" align="center">
- <img align="left" style="marginleft:"10%" src="https://github-readme-stats.vercel.app/api/top-langs?username=parag2510&show_icons=true&locale=en&layout=compact"        alt="parag2510" /></p>
+ <p align="center">
+ <img align="center" style="marginleft:"10%" src="https://github-readme-stats.vercel.app/api/top-langs?username=parag2510&show_icons=true&locale=en&layout=compact"        alt="parag2510" /></p>
 
  <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=parag2510&show_icons=true&locale=en" alt="parag2510" /></p>
 
