@@ -60,11 +60,5 @@
   
   <p align="center"><img align="center" style="marginleft:"10%" src="https://github-readme-stats.vercel.app/api?username=parag2510&show_icons=true&locale=en" alt="parag2510" /></p>
   
-  <p align="center"><img align="center" style="marginleft:"10%" src="https://github-readme-stats.vercel.app/api?username=parag2510&show_icons=true&locale=en" alt="parag2510" /></p>
+  <p align="center"><img align="center" style="marginleft:"10%" src="https://github-readme-streak-stats.herokuapp.com/?user=parag2510&" alt="parag2510" /></p>
   
-  
-
- <p align="center>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=parag2510&show_icons=true&locale=en" alt="parag2510" /></p>
-
- <p align="center><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=parag2510&" alt="parag2510" /></p>
-
