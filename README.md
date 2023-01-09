@@ -18,6 +18,9 @@
    - 💬 Ask me about **HTML , CSS , JavaScript , React , TypeScript , Redux**
     
    - 📫 How to reach me **sonjeparag75@gmail.com**
+
+   - 📄 Know about my experiences [Resume](https://drive.google.com/file/d/12j00EHzDZ_M9qVBrPTSQzyg9hSjO-Z4S/view?usp=sharing)
+
     
    <h3 align="left">Connect with me:</h3>
     <p align="left">
