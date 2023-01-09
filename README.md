@@ -1,10 +1,9 @@
-  
-   <img align="center" style="width:100%" src="https://www.wingstechsolutions.com/wp-content/uploads/2022/03/full-stack-development.gif" alt="img gif" />
-    <h1 align="center">Hi 👋, I'm Parag Sonje</h1>
+  <h1 align="center">Hi , I'm Parag Sonje <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<!--    <img align="center" style="width:100%" src="https://www.wingstechsolutions.com/wp-content/uploads/2022/03/full-stack-development.gif" alt="img gif" />
+    <h1 align="center">Hi 👋, I'm Parag Sonje</h1> -->
     <p align="center">I am a passionate aspiring Full Stack Web Developer. My passion for technology has brought me to learn HTML, CSS, JavaScript, React.js, Redux.js, TypeScript and many other tach stacks. Other than technology I love cricket and listening to music..</p>
     <p  align="left"> <img src="https://komarev.com/ghpvc/?username=parag2510&label=Profile%20views&color=0e75b6&style=flat" alt="parag2510" /> </p>
     
-<!--    <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img  style="margin-left:25%" src="https://github-profile-trophy.vercel.app/?username=parag2510" alt="parag2510" /></a> </p> -->
    
    <h1> ## 🙋‍♂️ About Me </h1>
         <img align="right" alt="Coding" width="400"   src="https://media0.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif?cid=ecf05e47k6kikx655y5zhpu3amg8fwu6zv2dwwpvz2eydv9t&rid=giphy.gif&ct=g"/> 
