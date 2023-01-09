@@ -1,4 +1,15 @@
-  <h1 align="center">Hi , I'm Parag Sonje <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+   ![MasterHead](https://raw.githubusercontent.com/rajkumarsahu89/rajkumarsahu89/main/cover.jpg)
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&amp;color=ff0000&amp;size=20&amp;lines=Hey!+It's+Raj+Kumar+Sahu!;Learning+MERN+Stack+Development...👨🏻‍💻;" style="width: 100%;">
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
+
+<h3 align="center">I'm a quick learner, enthusiastic person, a team player and
+						passionate about coding. I have 2500+ hours of hands on
+						coding. I worked on various projects some of them you can check
+						in the projects section.</h3>
+            
+            
    <img align="center" style="width:100%" src="https://www.wingstechsolutions.com/wp-content/uploads/2022/03/full-stack-development.gif" alt="img gif" />
 <!--     <h1 align="center">Hi 👋, I'm Parag Sonje</h1> -->
     <p align="center">I am a passionate aspiring Full Stack Web Developer. My passion for technology has brought me to learn HTML, CSS, JavaScript, React.js, Redux.js, TypeScript and many other tach stacks. Other than technology I love cricket and listening to music..</p>
