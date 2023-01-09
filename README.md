@@ -1,4 +1,6 @@
-  <h1 align="center">Hi 👋, I'm Parag Sonje</h1> -->
+  <h1 align="center">Hi 👋, I'm Parag Sonje</h1>
+  
+   <img align="center" style="width:100%" src="https://i.pinimg.com/originals/e0/58/ee/e058eecc0652ff38a4e7062cfcf08c9d.gif" alt="img gif" />
   
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&amp;color=ff0000&amp;size=20&amp;lines=Hey!+It's+Parag+Sonje!;Learning+MERN+Stack+Development...👨🏻‍💻;" style="width: 100%;">
