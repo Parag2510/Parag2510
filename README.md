@@ -1,6 +1,7 @@
-   ![MasterHead](https://raw.githubusercontent.com/rajkumarsahu89/rajkumarsahu89/main/cover.jpg)
+  <h1 align="center">Hi 👋, I'm Parag Sonje</h1> -->
+  ![MasterHead](https://raw.githubusercontent.com/Parag2510/Parag2510/main/cover.jpg)
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&amp;color=ff0000&amp;size=20&amp;lines=Hey!+It's+Raj+Kumar+Sahu!;Learning+MERN+Stack+Development...👨🏻‍💻;" style="width: 100%;">
+<img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&amp;color=ff0000&amp;size=20&amp;lines=Hey!+It's+Parag+Sonje!;Learning+MERN+Stack+Development...👨🏻‍💻;" style="width: 100%;">
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
 
