@@ -1,5 +1,5 @@
   <h1 align="center">Hi 👋, I'm Parag Sonje</h1> -->
-  ![MasterHead](https://raw.githubusercontent.com/Parag2510/Parag2510/main/cover.jpg)
+  
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&amp;color=ff0000&amp;size=20&amp;lines=Hey!+It's+Parag+Sonje!;Learning+MERN+Stack+Development...👨🏻‍💻;" style="width: 100%;">
 
@@ -11,9 +11,8 @@
 						in the projects section.</h3>
             
             
-   <img align="center" style="width:100%" src="https://www.wingstechsolutions.com/wp-content/uploads/2022/03/full-stack-development.gif" alt="img gif" />
-<!--     <h1 align="center">Hi 👋, I'm Parag Sonje</h1> -->
-    <p align="center">I am a passionate aspiring Full Stack Web Developer. My passion for technology has brought me to learn HTML, CSS, JavaScript, React.js, Redux.js, TypeScript and many other tach stacks. Other than technology I love cricket and listening to music..</p>
+<!--    <img align="center" style="width:100%" src="https://www.wingstechsolutions.com/wp-content/uploads/2022/03/full-stack-development.gif" alt="img gif" />
+    <p align="center">I am a passionate aspiring Full Stack Web Developer. My passion for technology has brought me to learn HTML, CSS, JavaScript, React.js, Redux.js, TypeScript and many other tach stacks. Other than technology I love cricket and listening to music..</p> -->
     <p  align="left"> <img src="https://komarev.com/ghpvc/?username=parag2510&label=Profile%20views&color=0e75b6&style=flat" alt="parag2510" /> </p>
     
    
