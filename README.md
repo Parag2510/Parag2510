@@ -69,9 +69,9 @@
        alt="snake" /></a>
 </div> -->
   
-  <div align="center">
+<!--   <div align="center">
   <a href="https://Parag2510.github.io/Parag2510/">
   <img  src="https://github.com/Parag2510/Parag2510/blob/main/resources/img/grid-snake.svg"
        alt="snake" /></a>
-</div>
+</div> -->
   
