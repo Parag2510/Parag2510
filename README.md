@@ -22,8 +22,8 @@
    - 📄 Know about my experiences [Resume](https://drive.google.com/file/d/12j00EHzDZ_M9qVBrPTSQzyg9hSjO-Z4S/view?usp=sharing)
 
     
-   <h3 align="left">Connect with me:</h3>
-    <p align="left">
+   <h3 align="center">Connect with me:</h3>
+    <p align="center">
     <a href="https://www.linkedin.com/in/parag-sonje-b648bb236/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/parag-sonje-b648bb236/" height="30" width="40" /></a>
     </p>
     
