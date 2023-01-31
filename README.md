@@ -13,9 +13,6 @@
 						in the projects section.</h3>
             
             
-<!--    <img align="center" style="width:100%" src="https://www.wingstechsolutions.com/wp-content/uploads/2022/03/full-stack-development.gif" alt="img gif" />
-    <p align="center">I am a passionate aspiring Full Stack Web Developer. My passion for technology has brought me to learn HTML, CSS, JavaScript, React.js, Redux.js, TypeScript and many other tach stacks. Other than technology I love cricket and listening to music..</p> -->
-    
   <p  align="left"> <img src="https://komarev.com/ghpvc/?username=parag2510&label=Profile%20views&color=0e75b6&style=flat" alt="parag2510" /> </p>
     
    
@@ -78,12 +75,9 @@
   
   <p align="center"><img align="center" style="marginleft:"10%" src="https://github-readme-streak-stats.herokuapp.com/?user=parag2510&" alt="parag2510" /></p>
   
-  
-   <div align="center" style="color:"white">
-  <a href="https://1999azzar.github.io/1999AZZAR/">
-  <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg"
-       alt="snake" /></a>
-  </div>
+<div align="center" style="color:"white">
+  <a href="https://1999azzar.github.io/1999AZZAR/"><img  src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg" alt="snake" /></a>
+</div>
   
   
   <p align="center">
