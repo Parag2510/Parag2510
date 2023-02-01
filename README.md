@@ -23,7 +23,7 @@
     
    - 🌱 I’m currently learning **New Technologies**
     
-   - 👨‍💻 All of my projects are available at [https://github.com/Parag2510](https://github.com/Parag2510)
+   - 👨‍💻 All of my projects are available at [https://github.com/Parag2510](https://parag2510.github.io/)
     
    - 💬 Ask me about **HTML , CSS , JavaScript , React , TypeScript , Redux**
     
