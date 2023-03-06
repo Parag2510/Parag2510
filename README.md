@@ -29,7 +29,7 @@
     
    - 📫 How to reach me **sonjeparag75@gmail.com**
 
-   - 📄 Know about my experiences [Resume](https://drive.google.com/file/d/12j00EHzDZ_M9qVBrPTSQzyg9hSjO-Z4S/view?usp=sharing)
+   - 📄 Know about my experiences [Resume](drive)
 
     
    <h3 align="center">Connect with me:</h3>
